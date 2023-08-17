@@ -50,6 +50,10 @@
 
 <tr><td>分機號碼：</td>
 <td><input type="text" name="exnum" size="12"/></td>
+    </td></tr>
 
+</table><hr/>
+<input type="submit" name="insert" value="新增"/>    
+    </form>
 <body>
 <html>
