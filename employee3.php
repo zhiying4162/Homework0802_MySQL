@@ -26,7 +26,7 @@
             $exnum1 = $_POST['exnum1'];
             $exnum = $_POST['exnum'];
 
-            $sql = "UPDATE `員工` SET `分機號碼`='$exnum1' WHERE `分機號碼`='$exnum'";
+            $sql = "UPDATE `員工` SET `分機號碼`='$exnum' WHERE `分機號碼`='$exnum1'";
 
             if(mysqli_query($link, $sql))
             {

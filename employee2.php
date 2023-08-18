@@ -48,7 +48,7 @@
 </table><hr/>
 <input type="submit" name="delete" value="刪除"/>
 
-<br/><a href="employee2.php">新增頁面</a>
+<br/><a href="employee1.php">新增頁面</a>
 <br/><a href="employee3.php">修改頁面</a>
 <br/><a href="employee4.php">查詢頁面</a>
 </form>
