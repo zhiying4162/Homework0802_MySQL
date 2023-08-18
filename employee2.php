@@ -40,7 +40,7 @@
     }
 ?>
 
-<form action="employee刪除.php" method="post">
+<form action="employee2.php" method="post">
 <table border="1">
 <tr><td>員工編號：</td>
 <td><input type="text" name="no" size="12"/></td></tr>
