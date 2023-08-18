@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>employee.php</title>
+<title>employee新增.php</title>
 </head>
 <body>
 <?php
@@ -83,7 +83,8 @@
 <td><input type="text" name="exnum" size="12"/></td></tr>
 
 </table><hr/>
-<input type="submit" name="insert" value="新增"/>    
+<input type="submit" name="insert" value="新增"/>
+
 </form>
 </body>
 </html>
