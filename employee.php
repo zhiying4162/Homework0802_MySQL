@@ -84,7 +84,10 @@
 
 </table><hr/>
 <input type="submit" name="insert" value="新增"/>
+
 <br/><a href="employee2.php">刪除頁面</a>
+<br/><a href="employee3.php">修改頁面</a>
+<br/><a href="employee4.php">查詢頁面</a>
 </form>
 </body>
 </html>
