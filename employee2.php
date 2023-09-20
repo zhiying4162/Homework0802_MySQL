@@ -42,7 +42,7 @@
 
 <form action="employee2.php" method="post">
 <table border="1">
-<tr><td>員工編號：</td>
+<tr><td>請輸入要刪除的員工編號：</td>
 <td><input type="text" name="no" size="12"/></td></tr>
 
 </table><hr/>
