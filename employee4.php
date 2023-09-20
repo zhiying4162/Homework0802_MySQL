@@ -52,6 +52,7 @@
     }
 ?>
 
+
 <form action="employee4.php" method="post">
 <input type="submit" name="query" value="執行查詢"/>
 </form>

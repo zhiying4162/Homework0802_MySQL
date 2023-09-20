@@ -40,6 +40,7 @@
     }
 ?>
 
+
 <form action="employee2.php" method="post">
 <table border="1">
 <tr><td>請輸入要刪除的員工編號：</td>
